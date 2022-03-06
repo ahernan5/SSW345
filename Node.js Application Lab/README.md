@@ -1,1 +1,1 @@
-
+While walking through this lab, I had some issues with part five since I did not know to delete the code prior to adding in the routes(app); part.  Once I asked the ta for help we were able to find the issue and it was solved in a timely matter.  I had no further issues and now I feel as though I have a deeper understanding of how to create an API that runs on Node.js Express Server and connects to a MySQL database.  
